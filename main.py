@@ -25,3 +25,4 @@ while capture.isOpened():
     hand_landmarks = recognition_result.hand_landmarks
     cv2.imshow("Facial and Hand Landmarks", mp.Image.numpy_view(image))
     # results.append((top_gesture, hand_landmarks))
+# eqfae
